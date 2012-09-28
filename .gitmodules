@@ -1,0 +1,3 @@
+[submodule "knife-ec2"]
+	path = knife-ec2
+	url = git://github.com/mohitsethi/knife-ec2.git
